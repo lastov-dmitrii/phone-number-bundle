@@ -17,11 +17,11 @@
         "doctrine/doctrine-bundle": "^2.0",
         "jms/serializer-bundle": "^3.5",
         "phpunit/phpunit": "~4.0|^5.7",
-        "symfony/form": "~2.7|~3.0|~4.0",
-        "symfony/serializer": "^4.4|^5.0",
-        "symfony/templating": "4.4|^5.0",
-        "symfony/twig-bundle": "4.4|^5.0",
-        "symfony/validator": "4.4|^5.0"
+        "symfony/form": "^4.4",
+        "symfony/serializer": "^4.4",
+        "symfony/templating": "^4.4",
+        "symfony/twig-bundle": "^4.4",
+        "symfony/validator": "^4.4"
     },
     "conflict": {
         "twig/twig": "<2.0"
